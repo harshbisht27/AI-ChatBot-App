@@ -18,8 +18,6 @@ An AI-powered chatbot built with React Native and Expo, leveraging the Gemini AP
 
 
 
-
-
 ## ✨ Features
 - 🧑‍🤝‍🧑 Selectable AI Chat Buddies: Choose from a variety of AI personalities tailored to different needs.
 
