@@ -35,5 +35,5 @@ yarn-error.*
 *.tsbuildinfo
 
 
-
-Config/config.js
+# Config file with sensitive data
+App/Config/config.js
